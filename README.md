@@ -12,7 +12,7 @@ Go to this url: https://tinyurl.com/200setup
 (if you have not followed the Installation guides to prepare your computer go to **Using [Download Zip](#using-download-zip)**)<br />
 
 ### Using [Git](https://git-scm.com/download/win)
-- Open https://github.com/Seneca-200200/BTP-Workshops and click on “Code” Button; this will open “Clone with HTTPS” window.<br />
+- Open https://github.com/Seneca-244200/BTP-Workshops and click on “Code” Button; this will open “Clone with HTTPS” window.<br />
 ![The Code Button](images/code.png)
 > If the window is titled “Clone with SSH” then click on “Use HTTPS”: <br />
 ![Use https](images/usehttps.png)
@@ -29,7 +29,7 @@ This will create on your computer a clone (identical directory structure) of the
 - Change the directory to your workshops directory.
 - Issue the following command at the command prompt in your workshops directory: 
 ``` bash
-git clone https://github.com/Seneca-200200/BTP-Workshops.git<ENTER>
+git clone https://github.com/Seneca-244200/BTP-Workshops.git<ENTER>
 ```
 > The URL for all the workshops are the same throughout the semester. The only thing that changes, is the workshop number.<br/>
 
@@ -42,7 +42,7 @@ git pull<ENTER>
 >  in the cloned repository directory to update and sync your local workshop to the one on Github without having to download it again. Note that this will only apply the changes made and will not affect any work that you have done on your workshop.
 
 #### Using Download ZIP
-- Open https://github.com/Seneca-200200/BTP-Workshops  and click on “Code” button and click on “Download ZIP”.<br />
+- Open https://github.com/Seneca-244200/BTP-Workshops  and click on “Code” button and click on “Download ZIP”.<br />
 ![Download Zip](images/downloadzip.png)<br />
 - This will download a zipped file copy of the workshop repository from Github to your computer. You can extract this file to where you want to do your workshop. <br />
 > Note that, if your professor makes any changes to the workshop, to get them you have to separately download another copy of the workshop and manually apply the changes to your working directory to **make sure nothing of your work is overwritten by mistake**.
