@@ -1,4 +1,5 @@
-﻿# Computer preparation and Getting Workshop files
+﻿# Workshop 1 Released
+# Computer preparation and Getting Workshop files
 
 ## Setting up your computers for btp200
 
